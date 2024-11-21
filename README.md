@@ -9,8 +9,13 @@
 - I opnely admit most of my projects were written by GPT.
 
 ## My Projects Hell Yeah
-- https://gde-xplorer.vercel.app -- gdbrowser website that uses gdbrowser's api!!! hell yeah
-- as a matter of fact, just check out my vercel projects. https://vercel.com/kkronggs-projects-hell-yeah. all of my HOSTED projects are there-- most of my projects aren't hosted anyway so it doesn't really matter
+- https://vercel.com/kkronggs-projects-hell-yeah -- vercel
+- i have a render account but i'm too lazy to share my projects
+- im now putting more of my important projects or projects that need a git repo to be hosted open source. enjoy!
 
-## Why do I have a github if I don't use it much?
-- because i fucking want to
+# Reddit Sucks
+- Don't use reddit
+  ## Don't use Twitter.
+  - Instead, please use Lyntr H: https://lyntr.jnnj.xyz/
+    ### Don't use TikTok.
+    - It's ass with nfsw and other stuff. I recommend YouTube.
