@@ -1,13 +1,11 @@
---these stats are very cool!!
-<a href="">
+<a href="https://github.com/kkronggiscool">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkronggiscool&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
-<a href="">
+<a href="https://github.com/kkronggiscool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkronggiscool&theme=github_dark&layout=compact" />
 </a>
-end of stats
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&width=435&lines=i+love+coding!!+and+i+hate+heroku)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&width=435&lines=i+love+coding!!+and+i+hate+heroku)]
 <br>
 # Hi world !!!
 - It's me, kkrongg
