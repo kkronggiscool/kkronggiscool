@@ -17,7 +17,7 @@
 - I love coding & programming
 
 ## Contact me
-- [Discord](https://discord.com/users/931294241504764014)
+- [Discord](https://discord.com/users/931294241504764014) (the link probably doesn't work so just dm @kkrongg)
 - Find my email somewhere
 
 ## Contributions are welcome!
