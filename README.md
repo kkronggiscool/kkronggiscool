@@ -6,7 +6,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkronggiscool&theme=github_dark&layout=compact" />
 </a>
 <br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+love+coding!!!)](https://git.io/typing-svg)
+
 <br>
 
 # Hi world !!!
