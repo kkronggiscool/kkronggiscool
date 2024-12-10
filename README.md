@@ -16,9 +16,10 @@
 - I love web dev!!!!
 - I love coding & programming
 
-## Contact Me
-- [Discord](discord://-/users/931294241504764014)  
-- Email me: *[Your email goes here; please add it!]*  
+## Contact me
+- [Discord](https://discord.com/users/931294241504764014)
+- Find my email somewhere
+
 ## Contributions are welcome!
 
 ## Who am I??
