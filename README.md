@@ -16,7 +16,7 @@
 - I love web dev!!!!
 - I love coding & programming
 
-## Contact me on [![Discord!]([https://via.placeholder.com/150](https://cdn.discordapp.com/avatars/931294241504764014/8a72bac38a0da9c5f29588166a60606d.webp?size=1024&format=webp&width=670&height=670))](discord://-/users/931294241504764014)
+## Contact me on [![Discord!](https://cdn.discordapp.com/avatars/931294241504764014/8a72bac38a0da9c5f29588166a60606d.webp?size=1024&format=webp&width=670&height=670)](discord://-/users/931294241504764014)
 ## Contributions are welcome!
 
 ## Who am I??
