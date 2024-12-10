@@ -1,21 +1,23 @@
-# Chat is this real????
-- Yep, it is.
-- It's me, kkrongg! Hello!!!!
-- If u wanna contact me then do it on Discordo >> kkrongg, you might need to friend me!!!
+--these stats are very cool!!
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkronggiscool&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkronggiscool&theme=github_dark&layout=compact" />
+</a>
+end of stats
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&width=435&lines=i+love+coding!!+and+i+hate+heroku)](https://git.io/typing-svg)
+<br>
+# Hi world !!!
+- It's me, kkrongg
+- I love web dev!!!!
+- I love coding & programming
 
-## Who am I
-- A goofy goober.
-- I know some of each coding language
-- I opnely admit most of my projects were written by GPT.
+## Who am I??
+- Eh idk probably some stranger who you don't care about !!!
+- Most of my projects/repos are public and opensrc so feel free to fork
 
-## My Projects Hell Yeah
-- https://vercel.com/kkronggs-projects-hell-yeah -- vercel
-- i have a render account but i'm too lazy to share my projects
-- im now putting more of my important projects or projects that need a git repo to be hosted open source. enjoy!
-
-# Reddit Sucks
-- Don't use reddit
-  ## Don't use Twitter.
-  - Instead, please use Lyntr H: https://lyntr.jnnj.xyz/
-    ### Don't use TikTok.
-    - It's ass with nfsw and other stuff. I recommend YouTube.
+## IF THE WORLD WAS ENDING
+- I'd wanna be next
+- To you!!!
