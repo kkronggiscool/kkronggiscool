@@ -16,6 +16,9 @@
 - I love web dev!!!!
 - I love coding & programming
 
+## Contact me on [Discord!](discord://-/users/931294241504764014)
+## Contributions are welcome!
+
 ## Who am I??
 - Eh idk probably some stranger who you don't care about !!!
 - Most of my projects/repos are public and opensrc so feel free to fork
