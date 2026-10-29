@@ -5,4 +5,4 @@
 # Project(s)
 - Mostly websites, some games, etc
 - They all have some sort of optimization issue
-- They all such, probably
+- They all suck, probably
